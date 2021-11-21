@@ -1,0 +1,1 @@
+cat input.txt | python3 "task$1.py" > output.txt
